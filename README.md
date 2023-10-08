@@ -1,5 +1,5 @@
 
-# Pandas - Importing Data
+# Pandas Basics - Importing Data
 
 Jupyter Notebook used to perform Exploratory Data Analysis (EDA).
 
